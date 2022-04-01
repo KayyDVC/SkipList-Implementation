@@ -18,6 +18,7 @@ The format for input (see SampleIn text files) passed in via command line argume
 
 *All times values should be in mmddhhmm format.*
 *The argument for "GetActivitiesForOneDay" should be passed in with the mmdd format*
+
 ------------
 
 The FakeRandHeight.java class was created by my professor for the course and is properly credited as a block comment within the file.
