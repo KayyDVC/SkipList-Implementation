@@ -1,6 +1,6 @@
 /*
-Author: Malakai Stanisclaus
-Email: Mstanisclaus2019@gmail.com
+Author: KayyDVC
+Email: kayydv1016@gmail.com
 Description: This is the meat of HW5. It implements a skip list using a
 top-down approach. It contains a searchNode, addNode, removeNode, printList,
 and subMap functionality using the timeDate object as the common "key" and
