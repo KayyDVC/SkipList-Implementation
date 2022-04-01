@@ -1,6 +1,6 @@
 /*
-Author: Malakai Stanisclaus
-Email: Mstanisclaus2019@gmail.com
+Author: KayyDVC
+Email: kayydv1016@gmail.com
 Description: This file contains the file IO as well as code instructing the
 compiler of what to do with the plain text it reads in. In accordance with
 the assignment requirements, it contains function redirects for each keyword
