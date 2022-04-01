@@ -17,7 +17,8 @@ The format for input (see SampleIn text files) passed in via command line argume
 - PrintSkipList
 
 *All times values should be in mmddhhmm format.*
-*The argument for "GetActivitiesForOneDay" should be passed in with the mmdd format*
+
+*In contrast, the argument for "GetActivitiesForOneDay" should be passed in with the mmdd format*
 
 ------------
 
