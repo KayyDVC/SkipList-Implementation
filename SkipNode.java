@@ -1,6 +1,6 @@
 /*
-Author: Malakai Stanisclaus
-Email: Mstanisclaus2019@gmail.com
+Author: KayyDVC
+Email: kayydv1016@gmail.com
 Description: This is the class declaration and definition for the SkipNodes
 used for HW5. It contains a constructor as well as getters and setters for
 each variable in the class.
