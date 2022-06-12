@@ -21,6 +21,7 @@ The format for input (see SampleIn text files) passed in via command line argume
 *In contrast, the argument for "GetActivitiesForOneDay" should be passed in with the mmdd format*
 
 ------------
+
 The HW5.java file contains the main class and should be used to run the program. As a precaution, there are no relative imports in the file so, place HW5.java, FakeRandHeight.java, SkipList.java, and SkipNode.java in the same package to avoid any invalid reference errors.
 
 The FakeRandHeight.java class was created by my professor for the course and is properly credited as a block comment within the file.
